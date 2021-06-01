@@ -24,4 +24,3 @@
 <img width="1085" alt="result_1" src="https://user-images.githubusercontent.com/67572161/87394707-18116100-c5eb-11ea-8e70-ed1a1e79c0dc.png">
 <img width="1085" alt="result_2" src="https://user-images.githubusercontent.com/67572161/87394759-2a8b9a80-c5eb-11ea-8a79-dccab4d21909.png">
 
-보편화 된 모양은 잘 잡지만 예측할수 없는 부분의 모양까지 인식하기 위해선 조금더 많은 데이터와 학습이 필요함
