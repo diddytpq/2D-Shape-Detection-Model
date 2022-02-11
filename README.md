@@ -1,4 +1,4 @@
-# handwriting_shape_detect
+# 2D-Shape-Detection-Model
 손으로 쓴 글씨를 학습 및 실행까지 실습
 
 #### 학습데이터
